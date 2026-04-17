@@ -12,6 +12,8 @@ Trained and tested on the **MNIST** handwritten digit dataset. Achieves **~95%+ 
 Input (784) → MLP(128) → ReLU → MLP(64) → ReLU → MLP(10) → LogSoftmax → NLLLoss
 ```
 
+![architecture](Backpropagation-in-Neural-Network-1.png)
+
 | Layer | Type | Input | Output |
 |---|---|---|---|
 | 1 | Linear (MLP) | 784 | 128 |
