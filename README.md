@@ -104,7 +104,7 @@ Pure NumPy means all computation runs on CPU. Benchmarked on two different CPU a
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/neural-network-from-scratch-numpy.git
+git clone https://github.com/MEK-0/backprop-by-hand.git
 cd neural-network-from-scratch-numpy
 
 # 2. Create virtual environment
